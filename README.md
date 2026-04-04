@@ -120,3 +120,7 @@ Profit declines sharply beyond 6 FC rows because tourist capacity falls below ty
 - Microsoft Excel with **@Risk** (Palisade) — Monte Carlo simulation, triangular and discrete distributions
 - Triangular distribution sampling for stochastic demand
 - Sensitivity analysis across discrete decision space (number of first-class rows)
+
+---
+
+README written with the assistance of [Claude Code](https://claude.ai/code) by Anthropic.
